@@ -1,0 +1,43 @@
+url: "https://goofyappstudio.com"
+paginate: 20
+paginate_path: "/:num/"
+
+title: "Goofy App Studio"
+description: ""
+
+logo: /assets/images/goofy-app-studio-pod-1024.jpg
+
+twitter:
+  username: GoofyAppStudio
+  card: summary
+
+social:
+  name: Goofy App Studio
+  links:
+    - https://twitter.com/GoofyAppStudio
+
+collections:
+  authors:
+    output: true
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      permalink: /episodes/:title
+  - scope:
+      path: "pages"
+    values:
+      permalink: /:basename:output_ext
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+      image: /assets/images/goofy-app-studio-pod-1024.jpg
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
