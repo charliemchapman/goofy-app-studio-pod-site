@@ -18,6 +18,7 @@ episodes.each { |episode|
     audioUrl = episode.search('enclosure').attr('url')
     image = episode.search('itunes|image').attr('href')
     content = episode.search('content|encoded').text.strip
+    people = episode.search('podcast|person').text
 
     pubDateText = episode.search('pubDate').text
     pubDate = Date.parse(pubDateText)
@@ -32,6 +33,7 @@ episodes.each { |episode|
     t += "duration: \"#{duration}\"\n"
     t += "audioUrl: \"#{audioUrl}\"\n"
     t += "image: \"#{image}\"\n"
+    t += "hosts: \"#{people}\"\n"
     t += "---\n"
     t += "\n"
     t += content
