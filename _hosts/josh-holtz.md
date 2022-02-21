@@ -1,5 +1,5 @@
 ---
-layout: author
+layout: host
 id: josh-holtz
 name: Josh Holtz
 position: Chief Otter Fan

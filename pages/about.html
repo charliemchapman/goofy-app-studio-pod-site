@@ -9,13 +9,13 @@ title: About
 <h2>Hosts</h2>
 
 <div class="host-container">
-  {% for author in site.authors %}
+  {% for host in site.hosts %}
   <div class="host">
-    <a href="{{ author.url }}">
-      <img class="profile-img" src="{{ author.image }}" />
+    <a href="{{ host.url }}">
+      <img class="profile-img" src="{{ host.image }}" />
     </a>
-    <h3><a href="{{ author.url }}">{{ author.name }}</a></h3>
-    <p>{{ author.description }}</p>
+    <h3><a href="{{ host.url }}">{{ host.name }}</a></h3>
+    <p>{{ host.description }}</p>
   </div>
   {% endfor %}
 </div>

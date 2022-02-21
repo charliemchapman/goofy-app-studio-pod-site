@@ -17,7 +17,7 @@ social:
     - https://twitter.com/GoofyAppStudio
 
 collections:
-  authors:
+  hosts:
     output: true
 
 defaults:

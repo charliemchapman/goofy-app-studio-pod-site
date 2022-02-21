@@ -1,5 +1,5 @@
 ---
-layout: author
+layout: host
 id: tyler-hillsman
 name: Tyler Hillsman
 position: Chief Chiefs Fan

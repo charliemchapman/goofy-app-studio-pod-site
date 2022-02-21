@@ -1,5 +1,5 @@
 ---
-layout: author
+layout: host
 id: charlie-chapman
 name: Charlie Chapman
 position: Chief Code Fan
