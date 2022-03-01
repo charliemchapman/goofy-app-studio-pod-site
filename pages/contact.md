@@ -4,6 +4,4 @@ title: Contact
 ---
 # Contact
 
-* How can we be reached?
-  * Email/Twitter/Other?
-* In what capacities are we ok being reached? (listener feedback only, are we ok being solicited for guest spots? ect)
+Want to chat? Right now the best way to reach us is through Twitter [@GoofyAppStudio](https://twitter.com/goofyappstudio). DMs are open!
