@@ -1,9 +1,9 @@
 ---
 layout: host
 id: charlie-chapman
-name: Charlie Chapman
-position: Chief Code Fan
+name: ███████ ███████
+position: Chief Fan Fan
 image: "/assets/images/hosts/gary-charlie-1024.jpg"
-description: "Charlie is an human based out of St. Louis Missouri."
+description: "███████ is a human based out of St. Louis, Missouri."
 ---
-Charlie is an human based out of St. Louis Missouri.
+███████ is a human based out of St. Louis, Missouri.

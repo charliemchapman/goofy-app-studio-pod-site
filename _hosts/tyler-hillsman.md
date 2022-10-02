@@ -1,9 +1,9 @@
 ---
 layout: host
 id: tyler-hillsman
-name: Tyler Hillsman
+name: █████ ████████
 position: Chief Chiefs Fan
 image: "/assets/images/hosts/gary-tyler-1024.jpg"
-description: "Tyler is an avid sports fan based out of Kansas City Missouri."
+description: "█████ is an avid sports fan based out of Kansas City, Missouri."
 ---
-Tyler is an avid sports fan based out of Kansas City Missouri.
+█████ is an avid sports fan based out of Kansas City, Missouri.

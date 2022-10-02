@@ -1,9 +1,9 @@
 ---
 layout: host
 id: josh-holtz
-name: Josh Holtz
+name: ████ █████
 position: Chief Otter Fan
 image: "/assets/images/hosts/gary-josh-1024.jpg"
-description: "Josh is an avid Otter fan based out of the greater Chicago area."
+description: "████ is an avid Otter fan based out of the greater Chicago area."
 ---
-Josh is an avid Otter fan based out of the greater Chicago area.
+████ is an avid Otter fan based out of the greater Chicago area.
